@@ -1,0 +1,10 @@
+{
+"name":"Epam Systems"
+"domain":"epam.com"
+"year_founded":1993
+"industry":"Computer software"
+"employees_count":38592
+"locality":"Newtown"
+"country":"United States"
+"linkedin_url":"linkedin.com/company/epam-systems"
+}
