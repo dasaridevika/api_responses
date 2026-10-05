@@ -1,0 +1,29 @@
+{
+  "organization_name": "Gentex Corporation",
+  "ownership": "Public",
+  "company_type": "Public Corporation",
+  "stock_ticker": "GNTX",
+  "stock_exchange": "NASDAQ",
+  "aliases": [
+    {
+      "alias_name": "Gentex",
+      "verified": true
+    },
+    {
+      "alias_name": "Gentex Corp",
+      "verified": true
+    },
+    {
+      "alias_name": "Gentex Corporation USA",
+      "verified": true
+    }
+  ],
+  "website": "https://gentex.com",
+  "company_linkedin_url": "https://www.linkedin.com/company/gentex-corporation",
+  "company_x_url": "https://x.com/GentexCorp",
+  "founded_year": 1974,
+  "number_of_employees": 6000,
+  "annual_revenue_million_usd": 2300.0,
+  "revenue_year": 2023,
+  "overview": "Gentex Corporation is a technology company headquartered in Zeeland, Michigan, United States. Founded in 1974 by Fred Bauer, it is primarily focused on designing and manufacturing innovative electro-optical products for the automotive, aviation, and fire protection industries, including automatic-dimming rearview mirrors, camera-based driver assist systems, and dimmable aircraft windows."
+}
