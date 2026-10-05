@@ -1,0 +1,51 @@
+{
+  "organization_name": "EPAM Systems",
+  "ownership": "Public",
+  "company_type": "Public Company",
+  "stock_ticker": "",
+  "stock_exchange": "",
+  "aliases": [
+    {
+      "alias_name": "",
+      "verified": false
+    },
+    {
+      "alias_name": "",
+      "verified": false
+    },
+    {
+      "alias_name": "",
+      "verified": false
+    },
+    {
+      "alias_name": "",
+      "verified": false
+    }
+  ],
+  "website": "http://www.epam.com",
+  "company_linkedin_url": "",
+  "company_x_url": "",
+  "founded_year": 1993,
+  "number_of_employees": 69024,
+  "annual_revenue_million_usd": 0.0,
+  "revenue_year": 0,
+  "overview": "EPAM (NYSE:EPAM) is a global leader in AI transformation engineering and integrated consulting, serving Forbes Global 2000 companies and ambitious startups. With over thirty years of expertise in custom software, product and platform engineering, EPAM empowers organizations to become AI-native enterprises, driving measurable value from innovation and digital investments. Recognized by industry benchmarks and leading analysts as a leader in AI, EPAM delivers globally while engaging locally, making the future real for clients, partners and employees.\n \nWe are proud to be recognized by Forbes, Glassdoor, Newsweek, Time Magazine, Great Place to Work and kununu as a Most Loved Workplace around the world.\n \nLearn more at www.epam.com and follow us on LinkedIn.",
+  "address": {
+    "is_headquarter": false,
+    "building_plot_block": "",
+    "country": "",
+    "state_province": "",
+    "district_county": "",
+    "city_town": "",
+    "zipcode": "",
+    "complete_address": "",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  "communication": {
+    "phone_number": "",
+    "email_id": "",
+    "email_validated": false,
+    "fax": ""
+  }
+}
