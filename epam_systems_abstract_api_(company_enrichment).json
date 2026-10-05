@@ -1,0 +1,33 @@
+{
+  "organization_name": "EPAM Systems",
+  "ownership": "Public",
+  "company_type": "Public Corporation",
+  "stock_ticker": "EPAM",
+  "stock_exchange": "NYSE",
+  "aliases": [
+    {
+      "alias_name": "EPAM Systems",
+      "verified": true
+    },
+    {
+      "alias_name": "EPAM Continuum",
+      "verified": true
+    },
+    {
+      "alias_name": "Emakina TR",
+      "verified": true
+    },
+    {
+      "alias_name": "Alliance Global Services",
+      "verified": true
+    }
+  ],
+  "website": "https://epam.com",
+  "company_linkedin_url": "https://www.linkedin.com/company/epam-systems",
+  "company_x_url": "https://x.com/EPAMSYSTEMS",
+  "founded_year": 1993,
+  "number_of_employees": 53150,
+  "annual_revenue_million_usd": 4691.0,
+  "revenue_year": 2023,
+  "overview": "EPAM Systems, Inc. is a global provider of digital engineering, cloud, and AI-enabled software platform development services."
+}

@@ -1,0 +1,33 @@
+{
+  "organization_name": "Shell plc",
+  "ownership": "Public",
+  "company_type": "Public Corporation",
+  "stock_ticker": "SHEL",
+  "stock_exchange": "LSE / NYSE / Euronext",
+  "aliases": [
+    {
+      "alias_name": "Shell",
+      "verified": true
+    },
+    {
+      "alias_name": "Royal Dutch Shell",
+      "verified": true
+    },
+    {
+      "alias_name": "Shell Oil Company",
+      "verified": true
+    },
+    {
+      "alias_name": "BG Group",
+      "verified": true
+    }
+  ],
+  "website": "https://www.shell.com",
+  "company_linkedin_url": "https://www.linkedin.com/company/shell",
+  "company_x_url": "https://x.com/Shell",
+  "founded_year": 1907,
+  "number_of_employees": 94000,
+  "annual_revenue_million_usd": 286800.0,
+  "revenue_year": 2023,
+  "overview": "Shell plc is a global energy and petrochemical group headquartered in London, United Kingdom. The company operates across exploration, production, refining, marketing, chemicals, and low-carbon energy solutions."
+}
