@@ -1,0 +1,51 @@
+{
+  "organization_name": "Gentex Corporation",
+  "ownership": "Select",
+  "company_type": "Select Type",
+  "stock_ticker": "",
+  "stock_exchange": "",
+  "aliases": [
+    {
+      "alias_name": "",
+      "verified": false
+    },
+    {
+      "alias_name": "",
+      "verified": false
+    },
+    {
+      "alias_name": "",
+      "verified": false
+    },
+    {
+      "alias_name": "",
+      "verified": false
+    }
+  ],
+  "website": "https://gentex.com",
+  "company_linkedin_url": "https://www.linkedin.com/company/gentex-corporation",
+  "company_x_url": "https://x.com/gentexcorp",
+  "founded_year": 1974,
+  "number_of_employees": 0,
+  "annual_revenue_million_usd": 0.0,
+  "revenue_year": 0,
+  "overview": "Gentex is a global, high technology electronics company that is managed by engineers and others who understand the freedom and discipline that's required to run an entrepreneurial company. We are a unique, profitable company that is vertically integrated in highly automated electronics, CMOS camera development and manufacturing, vacuum coatings, and glass bending and fabrication. We specialize in a broad spectrum of technologies and processes to deliver high quality products to the automotive, aerospace and fire protection industries.\n\n\nThank you for visiting the Gentex Corporation (\u201cGentex\u201d) LinkedIn page. This page is intended to share information about Gentex, its products and corporate culture. If you have specific questions about Gentex, please call our main phone number at 616.772.1800.\n\nAny content, views, opinions and/or responses to questions uploaded, expressed or submitted by third parties on the Gentex LinkedIn page, other than the content provided by Gentex, are solely the views, opinions and responsibility of the person submitting them and do not necessarily reflect the opinions of Gentex. Gentex reserves the right to terminate any user's ability to access this LinkedIn page, and to edit or delete any material it deems inappropriate and/or in violation of any Gentex policy, including but not limited to: Equal Employment Opportunity, Discrimination and Harassment, Workplace Violence, Non-Solicitation, Conflict of Interest, Confidentiality, and Insider Trading.",
+  "address": {
+    "is_headquarter": false,
+    "building_plot_block": "",
+    "country": "United States",
+    "state_province": "Michigan",
+    "district_county": "",
+    "city_town": "Zeeland",
+    "zipcode": "",
+    "complete_address": "600 N. Centennial Steet, Zeeland, Michigan 49464, US",
+    "latitude": 0.0,
+    "longitude": 0.0
+  },
+  "communication": {
+    "phone_number": "",
+    "email_id": "",
+    "email_validated": false,
+    "fax": ""
+  }
+}
